@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "SuperSideOne1.sln"
+    "dotnet.defaultSolution": "SupersideTask2.sln"
 }
